@@ -81,7 +81,7 @@ body{
 @media screen and (max-width: 768px){
     .mainBox{
         margin: 10vh auto;
-        height: 350px;
+        height: 400px;
         width: 450px;
     }
 
@@ -121,4 +121,5 @@ body{
         width: 70px;
     }
 }
+
 
