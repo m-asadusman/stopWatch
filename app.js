@@ -52,5 +52,4 @@ function reset(){
     minutes = 0
     seconds = 0
     showTime()
-
 }
