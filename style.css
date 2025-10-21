@@ -1,8 +1,11 @@
-body{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    font-family: Arial, sans-serif;
     color: white;
     background-color: rgb(149, 216, 190);
 }
@@ -39,7 +42,7 @@ body{
 }
 
 .btnBox button{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 16px;
     height: 40px;
     width: 100px;
@@ -121,5 +124,4 @@ body{
         width: 70px;
     }
 }
-
 
