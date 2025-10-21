@@ -19,7 +19,7 @@ function showTime(){
     if(s < 10){
         s = '0'+ s
     }
-    display.textContent = h+' : '+m+' : '+s
+    display.textContent = h+':'+m+':'+s
 }
 
 function start(){
@@ -52,4 +52,5 @@ function reset(){
     minutes = 0
     seconds = 0
     showTime()
+
 }
